@@ -1,0 +1,6 @@
+[submodule "bank-dapp-frontend"]
+	path = bank-dapp-frontend
+	url = https://github.com/stxpid-shxri/bank-dapp-frontend
+[submodule "wsos-bank-backend"]
+	path = wsos-bank-backend
+	url = https://github.com/stxpid-shxri/wsos-bank-backend
